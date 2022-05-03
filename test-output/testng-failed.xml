@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SimplesuranceV1]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.simplesurance.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="InsuranceApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.simplesurance.testCases.TC_ImportPolicy_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="importPolicy"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.simplesurance.testCases.TC_ImportPolicy_002 -->
+    </classes>
+  </test> <!-- InsuranceApp Test(failed) -->
+</suite> <!-- Failed suite [SimplesuranceV1] -->

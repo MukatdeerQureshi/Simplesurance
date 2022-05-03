@@ -1,0 +1,5 @@
+product_code,category,customer_email,customer_salutation,customer_first_name,customer_last_name,customer_street,customer_street_number,customer_zip,customer_city,customer_country,identifiers_0_serialNumber,identifiers_0_name,identifiers_0_orderNumber,identifiers_0_invoiceNumber,tax_number
+PDCODE523474,CATEGORY_MEL,mail1@simplesurance.de,0,Tester,User,STRASSE,1,1115,Berlin,FR,SER-111111,Name-111111,Order-11111,Inv-11111,
+PDCODE511276,CATEGORY_MEL,mail2@simplesurance.de,0,Tester,User,STRASSE,1,1111,Berlin,FR,SER-111111,Name-111111,Order-11111,Inv-11111,
+PDCODE169186,CATEGORY_MEL,mail3@simplesurance.de,1,Tester,User,STRASSE,1,1111,Berlin,IT,SER-111111,Name-111111,Order-11111,Inv-11111,
+PDCODE876101,CATEGORY_MEL,mail3@simplesurance.de,1,Tester,User,STRASSE,1,1111,Berlin,IT,SER-111111,Name-111111,Order-11111,Inv-11111,
